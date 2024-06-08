@@ -1,5 +1,5 @@
 # MemoryTester
-<p>A web app which allows users to put their memory to the test by playing a fun memory game. Users have to remember the order in which each color tile is blinked and then they have to replicate that pattern by clicking on the tiles. </p>
+<p>A website which allows users to put their memory to the test by playing a fun memory game. Users have to remember the order in which each color tile is blinked and then they have to replicate that pattern by clicking on the tiles. </p>
 <a href="https://s-murtaza-shah.github.io/MemoryTester/">Play the game</a>
 
 ## Languages & Technologies
